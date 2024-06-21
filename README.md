@@ -15,6 +15,7 @@ GPA에 영향을 미친다고 확인된 요인을 인자로 받아 GPA를 예측
 
 ### 2. 데이터 소개
 ***데이터 출처: <https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset>***
+
 데이터는 2392명의 고등학생들에 대한 다음 정보를 포함한다:
 * StudentID : 각 학생에게 할당된 고유 식별자(1001~3392).
 * Gender : 학생의 성별로, 0은 남성, 1은 여성
